@@ -38,6 +38,8 @@ Check the local files and see whether the commit was indeed applied to your repo
 When using git status, you can see that the changes are already part of a commit.
 Then, push the new commit back to the remote repository.
 
+ja, ich habs geändert
+
 When using git log, you can see that git automatically added a cherry pick reference and the origin commit hash.
 This provides an important reference for future work with the branch and is why you should always use the -x flag.
 
