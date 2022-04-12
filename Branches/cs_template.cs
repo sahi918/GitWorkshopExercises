@@ -18,6 +18,11 @@ public class Program
         Int result = a+b+c+d;
         return result;
     }
+
+    public Int operation2(Int a, Int b){
+        Int result = a-b;
+        return result;
+    }
 }
 
 
