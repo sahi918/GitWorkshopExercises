@@ -1,6 +1,7 @@
 # Managing Branches
 
 ## Introduction
+changed in the main
 
 The last exercise, you learned how to create and merge branches.
 Remember, that branches only separate a state of development and always contain the entire project.
