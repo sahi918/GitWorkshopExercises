@@ -11,7 +11,8 @@ public class Program
         Int varD = 4;   
 		
         Int operationResult = operation(varA, varB, varC, varD);
-        Console.WriteLine("Result value: ", op_result);
+        Int operation2Result = operation2(varA,VarB);
+        Console.WriteLine("Result value for 1: ", op_result);
 	}
 
     public Int operation(Int a, Int b, Int c, Int d) {
